@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="coin_radius_mm">10</integer>
+    <integer name="coin_tickness_mm">2</integer>
+    <item name="gold_density" type="dimen">1932%</item>
+    <item name="gold_price" type="dimen">4320%</item>
+</resources>

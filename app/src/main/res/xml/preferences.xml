@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="pref_coin_width"
+        android:title="Coin Width(mm)"
+        android:defaultValue="20"
+        android:inputType="number">
+    </EditTextPreference>
+    <EditTextPreference
+        android:key="pref_coin_thickness"
+        android:title="Coin Tickness(mm)"
+        android:defaultValue="2"
+        android:inputType="number"></EditTextPreference>
+</PreferenceScreen>
